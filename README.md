@@ -1,4 +1,4 @@
-[![MasterHead](https://r.resimlink.com/LQl6IMCw.png)
+![MasterHead](https://r.resimlink.com/LQl6IMCw.png)
 <h1 align="center">Hi 👋, I'm Humeyra</h1>
 <h3 align="center">A mechatronics engineer interested in artificial intelligence and robotics</h3>
 
